@@ -1,0 +1,35 @@
+html {
+	background-color: #90A437;
+	color: #DEF771;
+	/*padding: 1em;*/
+}
+
+body {
+	text-align: center;
+	content-align: center;
+}
+
+#curr_ltr
+{
+	font-size: 7.5em;
+}
+
+button
+{
+	width: 50%;
+	margin-right: 5%;
+	margin-left: 5%;
+	font-size:3em;
+	border-style: solid;
+	border-radius: 10px;
+	border-color: #2F3708;
+	background-color: #3E480F;
+	color: #DEF771;
+
+}
+
+button:hover
+{
+	border-color: #5e6e17;
+	background-color: #5e6e17;
+}
